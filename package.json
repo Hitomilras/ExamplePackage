@@ -1,0 +1,20 @@
+{
+  "name": "com.rastleks.tutorial",
+  "version": "1.0.0",
+  "displayName": "Tutorial package",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+    "key1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "rastleks",
+    "email": "hitomilras@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
